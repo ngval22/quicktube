@@ -1,10 +1,14 @@
-YouTube Summary Generator
-A web application that generates summaries of YouTube video transcripts using OpenAI's gpt-4o-mini model via the Azure endpoint.
+QuickTube
+
+A web application that generates summaries of YouTube video transcripts using OpenAI's gpt-4o-mini.
+
+
 Features
 
 Enter a YouTube URL to get a concise summary (100-150 words).
 History section to view past summaries.
 Built with React 18, Tailwind CSS, and Node.js.
+
 
 Setup
 
