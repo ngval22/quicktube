@@ -12,7 +12,7 @@ Built with React 18, Tailwind CSS, and Node.js.
 
 Setup
 
-Clone the repository:git clone https://github.com/your-username/youtube-summarizer.git
+Clone the repository:git clone https://github.com/ngval22/quicktube.git
 cd youtube-summarizer
 
 
