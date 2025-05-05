@@ -1,0 +1,12 @@
+{
+  "name": "QuickTube",
+  "version": "1.0.0",
+  "description": "YouTube video Summarizer Webapp",
+  "scripts": {
+    "build:css": "tailwindcss -i ./frontend/input.css -o ./frontend/output.css",
+    "watch:css": "tailwindcss -i ./frontend/input.css -o ./frontend/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
